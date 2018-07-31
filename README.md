@@ -21,7 +21,7 @@ H2 Control Panel:  http://localhost:8080/h2-console<BR/>
     -The JDBC URL is: jdbc:h2:mem:testdb<BR/>
     -All other defaults leave in place, i.e. user: SA, password: <leave blank><BR/>
 
-Swagger-UI: http://localhost:8080/swagger-ui
+Swagger-UI: http://localhost:8080/swagger-ui.html
 
 ==== APIs ===
 
