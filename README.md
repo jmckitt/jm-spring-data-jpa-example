@@ -36,7 +36,8 @@ To use the raffle<BR/>
 <B>Known Limitations:</B>  Further refinement is required to the SQL query embedded within raffle/src/main/java/com/example/raffle/repository/CustomTicketRepository.java
 to enforce the rule that a single user may only win a total of two times overall.  The SQL query also does not handle the selection of multiple users in the case of a tie,
 though repeated raffles will eventually cycle through all matches.
-<BR/>
+<BR/><BR/>
+
 Only basic error handling and logging is in place.
 
 
